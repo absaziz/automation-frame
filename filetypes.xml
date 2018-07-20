@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="BBCHomepage" type="Cucumber" />
+      <mapping pattern="features" type="PLAIN_TEXT" />
       <mapping pattern=".feature" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
