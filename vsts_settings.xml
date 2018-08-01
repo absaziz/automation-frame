@@ -20,6 +20,14 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;65c4e143-4237-49b7-a24d-af3e83c95c0a&quot;,&quot;name&quot;:&quot;workingisgood&quot;,&quot;remoteUrl&quot;:&quot;https://modestee.visualstudio.com/MyFirstProject/_git/workingisgood&quot;,&quot;url&quot;:&quot;https://modestee.visualstudio.com/0c3d3b3b-2a4d-4685-89f0-a26c5fec5d8f/_apis/git/repositories/65c4e143-4237-49b7-a24d-af3e83c95c0a&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0c3d3b3b-2a4d-4685-89f0-a26c5fec5d8f&quot;,&quot;name&quot;:&quot;MyFirstProject&quot;,&quot;revision&quot;:7,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://modestee.visualstudio.com/_apis/projects/0c3d3b3b-2a4d-4685-89f0-a26c5fec5d8f&quot;}}" />
         </ServerContextState>
         <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://modesteee.visualstudio.com" />
+          <option name="serverUri" value="https://modesteee.visualstudio.com" />
+          <option name="userId" value="a5b6aafa-0d44-682f-81f5-4639265ca262" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e9dcb4dd-7765-449a-8c25-59bb16734939&quot;,&quot;name&quot;:&quot;modesteee&quot;,&quot;url&quot;:&quot;https://modesteee.visualstudio.com/_apis/projectCollections/e9dcb4dd-7765-449a-8c25-59bb16734939&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a2859d6c-99cc-4aec-84e6-d0ddc3dc6ece&quot;,&quot;name&quot;:&quot;MyFirstProject&quot;,&quot;revision&quot;:8,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://modesteee.visualstudio.com/_apis/projects/a2859d6c-99cc-4aec-84e6-d0ddc3dc6ece&quot;}" />
+        </ServerContextState>
+        <ServerContextState>
           <option name="type" value="VSO_DEPLOYMENT" />
           <option name="uri" value="https://app.vssps.visualstudio.com" />
           <option name="serverUri" value="https://app.vssps.visualstudio.com" />
@@ -27,13 +35,22 @@
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://modesteee.visualstudio.com/MyFirstProject/_git/workingisgood" />
+          <option name="serverUri" value="https://modesteee.visualstudio.com" />
+          <option name="userId" value="a5b6aafa-0d44-682f-81f5-4639265ca262" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e9dcb4dd-7765-449a-8c25-59bb16734939&quot;,&quot;name&quot;:&quot;modesteee&quot;,&quot;url&quot;:&quot;https://modesteee.visualstudio.com/_apis/projectCollections/e9dcb4dd-7765-449a-8c25-59bb16734939&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a2859d6c-99cc-4aec-84e6-d0ddc3dc6ece&quot;,&quot;name&quot;:&quot;MyFirstProject&quot;,&quot;revision&quot;:8,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://modesteee.visualstudio.com/_apis/projects/a2859d6c-99cc-4aec-84e6-d0ddc3dc6ece&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;c333e2c0-69f3-4888-b579-4e73562bdb9c&quot;,&quot;name&quot;:&quot;workingisgood&quot;,&quot;remoteUrl&quot;:&quot;https://modesteee.visualstudio.com/MyFirstProject/_git/workingisgood&quot;,&quot;url&quot;:&quot;https://modesteee.visualstudio.com/a2859d6c-99cc-4aec-84e6-d0ddc3dc6ece/_apis/git/repositories/c333e2c0-69f3-4888-b579-4e73562bdb9c&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a2859d6c-99cc-4aec-84e6-d0ddc3dc6ece&quot;,&quot;name&quot;:&quot;MyFirstProject&quot;,&quot;revision&quot;:8,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://modesteee.visualstudio.com/_apis/projects/a2859d6c-99cc-4aec-84e6-d0ddc3dc6ece&quot;}}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//modestee.visualstudio.com/myfirstproject/_git/workingisgood" />
+          <option name="value" value="//modesteee.visualstudio.com/myfirstproject/_git/workingisgood" />
         </PropertyState>
       </array>
     </option>
