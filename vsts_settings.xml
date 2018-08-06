@@ -28,14 +28,6 @@
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a2859d6c-99cc-4aec-84e6-d0ddc3dc6ece&quot;,&quot;name&quot;:&quot;MyFirstProject&quot;,&quot;revision&quot;:8,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://modesteee.visualstudio.com/_apis/projects/a2859d6c-99cc-4aec-84e6-d0ddc3dc6ece&quot;}" />
         </ServerContextState>
         <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="a5b6aafa-0d44-682f-81f5-4639265ca262" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://modesteee.visualstudio.com/MyFirstProject/_git/workingisgood" />
           <option name="serverUri" value="https://modesteee.visualstudio.com" />
